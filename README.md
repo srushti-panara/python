@@ -1,17 +1,17 @@
 # Python 🐍
-This repository contains all the Python programs I have written and practiced while learning the language.
-It covers basic to intermediate concepts and serves as a reference for revision and future projects.
+This repository contains all the Python programs I have written and practiced while learning the language. <br>
+It covers basic to intermediate concepts and serves as a reference for revision and future projects. <br>
 
 # 📂 Repository Structure
 The repository is organized topic-wise for easy navigation:
-Basics/ → Programs on variables, data types, operators, input/output
-Control Flow/ → If-else, loops, nested conditions
-Functions/ → User-defined functions, recursion, built-in functions
-Data Structures/ → Lists, tuples, sets, dictionaries, stacks, queues
-File Handling/ → Reading, writing, and appending files
-OOP/ → Classes, objects, inheritance, polymorphism
-Modules & Libraries/ → Practice with Python modules
-Miscellaneous/ → Small projects, problem-solving codes
+Basics/ → Programs on variables, data types, operators, input/output <br>  
+Control Flow/ → If-else, loops, nested conditions <br>
+Functions/ → User-defined functions, recursion, built-in functions <br>
+Data Structures/ → Lists, tuples, sets, dictionaries, stacks, queues <br>
+File Handling/ → Reading, writing, and appending files <br>
+OOP/ → Classes, objects, inheritance, polymorphism <br>
+Modules & Libraries/ → Practice with Python modules <br>
+Miscellaneous/ → Small projects, problem-solving codes <br>
 
 # Run a Python program
 python filename.py
