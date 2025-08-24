@@ -1,8 +1,8 @@
-**Python 🐍**
+# Python 🐍
 This repository contains all the Python programs I have written and practiced while learning the language.
 It covers basic to intermediate concepts and serves as a reference for revision and future projects.
 
-📂 **Repository Structure**
+# 📂 Repository Structure
 The repository is organized topic-wise for easy navigation:
 Basics/ → Programs on variables, data types, operators, input/output
 Control Flow/ → If-else, loops, nested conditions
@@ -20,12 +20,12 @@ To practice Python concepts step by step
 To maintain a record of all programs I’ve written while learning
 To help beginners understand Python with simple examples
 
-**🛠 Requirements**
+# 🛠 Requirements
 Python 3.x
 Any IDE or text editor (VS Code, PyCharm, or even IDLE)
 
-**🤝 Contribution**
+# 🤝 Contribution
 This is my personal learning repo, but if you have suggestions or improvements, feel free to open an issue or a pull request!
 
-**📌 Note**
+# 📌 Note
 This repo is continuously updated as I keep learning new Python concepts. Stay tuned for more programs 🚀
